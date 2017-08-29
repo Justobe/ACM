@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501834793 source:e:\cppworkspace\adjlistgraph\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1503211375 source:e:\cppworkspace\jd-1468-sharing\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<cstring>
+	<iomanip>
+

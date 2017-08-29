@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503286538 source:e:\cppworkspace\jd-1446-headofagang\main.cpp
+	<iostream>
+	<set>
+	<queue>
+

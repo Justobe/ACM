@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503146068 source:e:\cppworkspace\spfa\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501857070 source:e:\cppworkspace\bellman\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503451386 source:e:\cppworkspace\jd-1026-a+b\main.cpp
+	<iostream>
+	<stack>
+

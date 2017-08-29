@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500639692 source:e:\cppworkspace\fenyoustl\main.cpp
+	<iostream>
+	<deque>
+	<list>
+

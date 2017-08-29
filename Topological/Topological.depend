@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501730214 source:e:\cppworkspace\topological\main.cpp
+	<iostream>
+	<stack>
+

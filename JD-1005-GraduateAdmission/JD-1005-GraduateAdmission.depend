@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503312583 source:e:\cppworkspace\jd-1005-graduateadmission\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501333322 source:e:\cppworkspace\treefeidigui\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stack>
+

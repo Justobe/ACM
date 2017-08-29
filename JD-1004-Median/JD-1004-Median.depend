@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503302049 source:e:\cppworkspace\jd-1004-median\main.cpp
+	<iostream>
+	<queue>
+

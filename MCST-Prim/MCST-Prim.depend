@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501741760 source:e:\cppworkspace\mcst-prim\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500882597 source:e:\cppworkspace\insertsort\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+

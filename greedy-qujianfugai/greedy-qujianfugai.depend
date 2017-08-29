@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502799622 source:e:\cppworkspace\greedy-qujianfugai\main.cpp
+	<iostream>
+	<algorithm>
+

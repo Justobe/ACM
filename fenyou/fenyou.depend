@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500634094 source:e:\cppworkspace\fenyou\main.cpp
+	<iostream>
+
+1500638830 source:e:\cppworkspace\fenyou\stl.cpp
+	<iostream>
+	<deque>
+	<list>
+

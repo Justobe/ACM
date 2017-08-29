@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503301110 source:e:\cppworkspace\jd-1002-fenji\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
