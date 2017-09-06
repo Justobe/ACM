@@ -13,7 +13,7 @@ int main()
         arr[n] = tmp;
         n+=1;
     }
-    memset(dp,0,sizeof(dp));
+    /*memset(dp,0,sizeof(dp));
     int m1 = 0;
     for(int i = 0; i<n; i++)
     {
@@ -27,7 +27,7 @@ int main()
         }
         if(dp[i]>m1)
             m1 = dp[i];
-    }
+    }*/
     memset(dp,0,sizeof(dp));
     int m2 = 0;
     for(int i = 0; i<n; i++)
@@ -43,7 +43,7 @@ int main()
         if(dp[i]>m2)
             m2 = dp[i];
     }
-    cout<<m1<<endl;
+    //cout<<m1<<endl;
     cout<<m2<<endl;
 
 }
