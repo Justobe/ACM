@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504704155 source:e:\cppworkspace\acm\纪念品分组\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+

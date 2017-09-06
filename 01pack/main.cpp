@@ -8,7 +8,7 @@ int main()
     int v[120];
     int w[120];
     int T,M;
-    while(cin >>T>>M&&T>0&&M>0)
+    while(cin>>T>>M&&T>0&&M>0)
     {
         for(int i = 1; i<=M; i++)
         {

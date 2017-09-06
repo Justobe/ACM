@@ -76,7 +76,7 @@ int main()
         {
             cout<<distance[i]<<" ";
         }*/
-        cout<<"Dijkstra ×î¶ÌÂ·£º"<<endl;
+        cout<<"Dijkstra TSP"<<endl;
         visited[0] = 1;
         Dijkstra();
         for(int i = 0; i<n; i++)

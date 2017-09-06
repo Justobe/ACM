@@ -11,26 +11,26 @@ unsigned int n,e;
 int dis[100];
 bool Bellman()
 {
-    for(int i = 0;i<n-1;i++)
+    for(int i = 0; i<n-1; i++)
+    {
+        for(int j = 0; j<e; j++)
         {
-            for(int j = 0;j<e;j++)
-            {
 
-                if(dis[edge[j].to]>dis[edge[j].from]+edge[j].val)
-                {
-                    dis[edge[j].to] = dis[edge[j].from]+edge[j].val;
-                }
-            }
-        }
-        bool flag = true;
-        for(int k = 0 ; k < e;k++)
-        {
-            if(dis[edge[k].to]>dis[edge[k].from]+edge[k].val)
+            if(dis[edge[j].to]>dis[edge[j].from]+edge[j].val)
             {
-                flag = false;
-                break;
+                dis[edge[j].to] = dis[edge[j].from]+edge[j].val;
             }
         }
+    }
+    bool flag = true;
+    for(int k = 0 ; k < e; k++)
+    {
+        if(dis[edge[k].to]>dis[edge[k].from]+edge[k].val)
+        {
+            flag = false;
+            break;
+        }
+    }
     return flag;
 }
 int main()

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504613035 source:e:\cppworkspace\acm\工作分配问题\main.cpp
+	<iostream>
+	<queue>
+

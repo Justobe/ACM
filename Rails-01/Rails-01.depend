@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504610605 source:e:\cppworkspace\acm\rails-01\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<math.h>
+
