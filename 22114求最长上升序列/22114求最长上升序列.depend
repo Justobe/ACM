@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504780871 source:e:\cppworkspace\acm\22114求最长上升序列\main.cpp
+	<iostream>
+	<string.h>
+	<stack>
+

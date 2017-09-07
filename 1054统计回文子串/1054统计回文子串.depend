@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504786915 source:e:\cppworkspace\acm\1054统计回文子串\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	<string.h>
+
