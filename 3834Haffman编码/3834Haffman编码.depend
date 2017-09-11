@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504878638 source:e:\cppworkspace\acm\3834haffman±àÂë\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<malloc.h>
+	<stack>
+
