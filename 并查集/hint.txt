@@ -1,0 +1,38 @@
+并查集三个重要函数：
+1. init():设置每个节点的rank为0，父节点为自己
+2. 查找节点x的父节点
+int findfather(int x) 
+{
+	int root = father[x];
+	while(root!=father[root])
+	{
+		root = father[root];
+	}
+	while(x!=root)
+	{
+		x = father[x];
+		father[x] = root;
+	}
+	return root;
+}
+3. 合并x,y两棵树
+void unite(int x,int y)
+{
+	int fx = findfather(x);
+	int fy = findfather(y);
+	if(fx!=fy)
+	{
+		if(rank[fx]>rank[fy])
+		{
+			father[fy] = fx;
+		}
+		else
+		{
+			father[fx] = fy;
+			if(rank[fx] == rank[fy])
+			{
+				rank[fy]++;
+			}
+		}
+	}
+}

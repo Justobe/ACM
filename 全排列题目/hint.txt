@@ -1,0 +1,21 @@
+ºËÐÄµÝ¹éº¯Êý
+void getPL(int i)
+{
+    if(i == N)
+    {
+       //..
+    }
+    else
+    {
+        for(int k = 0 ;k<N;k++)
+        {
+            if(visited[k] == false)
+            {
+                visited[k] = true;
+                ans[i] = k+1;
+                getPL(i+1);
+                visited[k] = false;
+            }
+        }
+    }
+}
