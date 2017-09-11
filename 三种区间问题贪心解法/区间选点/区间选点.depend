@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505100167 source:e:\cppworkspace\acm\区间选点\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<stdlib.h>
+	<algorithm>
+

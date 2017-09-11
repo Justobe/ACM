@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505112958 source:e:\cppworkspace\acm\区间覆盖\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1505112958 source:e:\cppworkspace\acm\三种区间问题贪心解法\区间覆盖\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
